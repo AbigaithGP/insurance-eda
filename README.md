@@ -72,4 +72,4 @@ insurance-eda/
 
 ---
 
-*Especialización Python for Analytics · 2025*
+*Especialización Python for Analytics · 2026*
