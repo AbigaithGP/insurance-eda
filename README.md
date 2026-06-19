@@ -42,8 +42,8 @@ insurance-eda/
 
 ## 🔗 Links relevantes
 
-- 📁 Repositorio GitHub: _[enlace aquí]_
-- 🌐 App desplegada en Streamlit Cloud: _[enlace aquí]_
+- 📁 Repositorio GitHub: https://github.com/AbigaithGP/insurance-eda
+- 🌐 App desplegada en Streamlit Cloud: https://insurance-eda-u7emttcdm7ircc4hf5yp28.streamlit.app/
 
 ---
 
