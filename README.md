@@ -27,25 +27,6 @@ La herramienta está construida con **Python + Streamlit** y organizada en módu
 - **Matplotlib / Seaborn** — visualización
 - **Streamlit** — interfaz interactiva
 
----
-
-## 🚀 Instrucciones de ejecución
-
-```bash
-# 1. Clona el repositorio
-git clone https://github.com/tu-usuario/insurance-eda.git
-cd insurance-eda
-
-# 2. Instala dependencias
-pip install -r requirements.txt
-
-# 3. Ejecuta la aplicación
-streamlit run app.py
-```
-
-Luego abre tu navegador en `http://localhost:8501`.
-
----
 
 ## 📂 Estructura del repositorio
 
@@ -68,7 +49,16 @@ insurance-eda/
 
 ## 📊 Capturas de la app
 
-> _(Añadir capturas de pantalla de cada módulo tras el despliegue)_
+<img width="1365" height="641" alt="image" src="https://github.com/user-attachments/assets/491cf857-42f9-44fe-980b-32dbf32be721" />
+<img width="1365" height="641" alt="image" src="https://github.com/user-attachments/assets/30a3ec19-7d8e-4d20-bcd6-b321712a6ecc" />
+<img width="1365" height="639" alt="image" src="https://github.com/user-attachments/assets/7def0909-07d6-44b2-a5eb-6bcf22588773" />
+<img width="1365" height="641" alt="image" src="https://github.com/user-attachments/assets/25279142-5f32-441e-85b8-db4eff24c4e9" />
+<img width="1365" height="641" alt="image" src="https://github.com/user-attachments/assets/3316c5de-b496-4592-b14d-98c62ba7f9af" />
+
+
+
+
+
 
 ---
 
